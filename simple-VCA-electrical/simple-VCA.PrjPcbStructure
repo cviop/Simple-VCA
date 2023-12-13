@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_vca_core|SchDesignator=U_vca_core|FileName=vca_core.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=vca_core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_vca_core|SchDesignator=U_vca_core|FileName=vca_core.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=vca_core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,22 @@
+Circuit: * C:\Users\dvorakj\Documents\GitHub\Simple-VCA\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov  2 09:47:14 2023
+Total elapsed time: 0.053 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2808
+traniter = 2785
+tranpoints = 1298
+accept = 1268
+rejected = 30
+matrix size = 9
+fillins = 0
+solver = Normal
+Avg thread counts: 1.2/1.5/1.5/1.2
+Matrix Compiler1: 376 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 633 bytes object code size  0.1/0.1/[0.1]
+

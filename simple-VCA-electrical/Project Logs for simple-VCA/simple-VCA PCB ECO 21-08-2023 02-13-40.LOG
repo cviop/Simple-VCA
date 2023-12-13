@@ -1,0 +1,306 @@
+Added Component: Designator=C1_U_vca_coreA(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/885012206095.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "3%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Resistance"; Value = "5GOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012206095"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature max."; Value = "125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature min."; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q-Factor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R0603104K050DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R11_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R12_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R13_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R16_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R20_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R21_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R22_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R23_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R24_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R25_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R27_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R28_U_vca_coreA(RESC1608X06N(SMR0603))
+Add component (AddParameter): Name = "Author"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "i:\DataSheets\ER+xxxx0.1W0603XXx_YageoEN100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "rezistor cip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "heliosgreen://v1/hegMT/5-MT/Classes(343)/Folders/OpenForm?RecordNumbers=[6094847]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "consumption"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "KK"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "on_stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPP"; Value = "0,0188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance & Rating"; Value = "1%/0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-15 Pin=C1_U_vca_coreA-1
+Added Pin To Net: NetName=+15 Pin=C1_U_vca_coreA-2
+Added Pin To Net: NetName=NetD8_3 Pin=R4_U_vca_coreA-1
+Added Pin To Net: NetName=NetR4_U_vca_coreA_2 Pin=R4_U_vca_coreA-2
+Added Pin To Net: NetName=NetR3_U_vca_coreA_1 Pin=R5_U_vca_coreA-1
+Added Pin To Net: NetName=NetR3_U_vca_coreA_2 Pin=R5_U_vca_coreA-2
+Added Pin To Net: NetName=NetD7_3 Pin=R11_U_vca_coreA-1
+Added Pin To Net: NetName=NetR3_U_vca_coreA_1 Pin=R11_U_vca_coreA-2
+Added Pin To Net: NetName=NetR12_U_vca_coreA_1 Pin=R12_U_vca_coreA-1
+Added Pin To Net: NetName=NetR6_U_vca_coreA_2 Pin=R12_U_vca_coreA-2
+Added Pin To Net: NetName=NetR3_U_vca_coreA_2 Pin=R13_U_vca_coreA-1
+Added Pin To Net: NetName=NetR13_U_vca_coreA_2 Pin=R13_U_vca_coreA-2
+Added Pin To Net: NetName=NetR16_U_vca_coreA_1 Pin=R16_U_vca_coreA-1
+Added Pin To Net: NetName=NetR16_U_vca_coreA_2 Pin=R16_U_vca_coreA-2
+Added Pin To Net: NetName=NetR17_U_vca_coreA_2 Pin=R20_U_vca_coreA-1
+Added Pin To Net: NetName=NetR19_U_vca_coreA_2 Pin=R20_U_vca_coreA-2
+Added Pin To Net: NetName=NetR16_U_vca_coreA_1 Pin=R21_U_vca_coreA-1
+Added Pin To Net: NetName=NetR21_U_vca_coreA_2 Pin=R21_U_vca_coreA-2
+Added Pin To Net: NetName=NetR21_U_vca_coreA_2 Pin=R22_U_vca_coreA-1
+Added Pin To Net: NetName=NetR22_U_vca_coreA_2 Pin=R22_U_vca_coreA-2
+Added Pin To Net: NetName=NetR22_U_vca_coreA_2 Pin=R23_U_vca_coreA-1
+Added Pin To Net: NetName=NetR23_U_vca_coreA_2 Pin=R23_U_vca_coreA-2
+Added Pin To Net: NetName=NetR19_U_vca_coreA_2 Pin=R24_U_vca_coreA-1
+Added Pin To Net: NetName=NetR24_U_vca_coreA_2 Pin=R24_U_vca_coreA-2
+Added Pin To Net: NetName=NetR23_U_vca_coreA_2 Pin=R25_U_vca_coreA-1
+Added Pin To Net: NetName=NetR25_U_vca_coreA_2 Pin=R25_U_vca_coreA-2
+Added Pin To Net: NetName=NetR24_U_vca_coreA_2 Pin=R27_U_vca_coreA-1
+Added Pin To Net: NetName=-15 Pin=R27_U_vca_coreA-2
+Added Pin To Net: NetName=NetR16_U_vca_coreA_2 Pin=R28_U_vca_coreA-1
+Added Pin To Net: NetName=NetD9_3 Pin=R28_U_vca_coreA-2
+Added Member To Class: ClassName=U_vca_coreA Member=Component C1_U_vca_coreA (C1) 100nF
+Added Member To Class: ClassName=U_vca_coreA Member=Component R4_U_vca_coreA (R4) 100k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R5_U_vca_coreA (R5) 100k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R11_U_vca_coreA (R11) 100k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R12_U_vca_coreA (R12) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R13_U_vca_coreA (R13) 100k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R16_U_vca_coreA (R16) 100k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R20_U_vca_coreA (R20) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R21_U_vca_coreA (R21) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R22_U_vca_coreA (R22) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R23_U_vca_coreA (R23) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R24_U_vca_coreA (R24) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R25_U_vca_coreA (R25) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R27_U_vca_coreA (R27) 10k
+Added Member To Class: ClassName=U_vca_coreA Member=Component R28_U_vca_coreA (R28) 100k
